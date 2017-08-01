@@ -4,3 +4,4 @@
 •	Created triggers for automatic applicant insertion, bonus calculation, employee update, position demand, etc
 
 do complete.sql: the complete do file for creating and inserting tables as well as triggers.
+Q01.sql - Q20.sql: 20 sample queries
